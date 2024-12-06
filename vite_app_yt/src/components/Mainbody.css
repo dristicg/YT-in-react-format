@@ -1,0 +1,131 @@
+
+.header{
+    height: 60px;
+    width: 80vw;
+    background-color: rgb(24,24,24);
+}
+.header1{
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+
+
+}
+.search_bar{
+   /* background-color: aqua; */
+   margin-top: -20px;
+   margin-left: 70px;
+
+}
+.search_tab{
+    width: 400px;
+    height: 30px;
+    background: black;
+}
+
+.search_img{
+    margin-left: 5px;
+    margin-top: -20px;
+}
+.mic{
+
+    margin-left: 30px;
+    margin-top: -22px;
+    
+}
+.header1_icons{
+    margin-left: 200px;
+    margin-top: -9px;
+}
+
+.header1_icon{
+margin: 20px;
+margin-top: 20px;
+}
+
+.header2{
+    height: 30px;
+    width: 80vw;
+    background-color: rgb(24,24,24);
+}
+
+.all{
+    border-radius: 1pc;
+    width: 50px;
+    height: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: rgb(56,56,56);
+    color: white;
+}
+.ck{
+    border-radius: 2pc;
+    height: 30px;
+    width: 130px;
+    margin-right: 10px;
+    background-color: rgb(56,56,56);
+    color: white;
+}
+.ux{
+    border-radius: 2pc;
+    height: 30px;
+    width: 50px;
+    margin-right: 10px;
+    background-color: rgb(56,56,56);
+    color: white;
+}
+.cs{
+    border-radius: 2pc;
+    height: 30px;
+    width: 120px;
+    margin-right: 10px;
+    background-color: rgb(56,56,56);
+    color: white;
+}
+.m{
+    border-radius: 2pc;
+    height: 30px;
+    width: 80px;
+    margin-right: 10px;
+    background-color: rgb(56,56,56);
+    color: white;
+}
+.bl{
+    border-radius: 2pc;
+    height: 30px;
+    width: 120px;
+    margin-right: 10px;
+    background-color: rgb(56,56,56);
+    color: white;
+}
+.tour{
+    border-radius: 2pc;
+    height: 30px;
+    width: 60px;
+    margin-right: 10px;
+    background-color: rgb(56,56,56);
+    color: white;
+}
+.san{
+    border-radius: 2pc;
+    height: 30px;
+    width: 120px;
+    margin-right: 10px;
+    background-color: rgb(56,56,56);
+    color: white;
+}
+.teach{
+    border-radius: 2pc;
+    height: 30px;
+    width: 70px;
+    margin-right: 10px;
+    background-color: rgb(56,56,56);
+    color: white;
+}
+.iP{
+    border-radius: 2pc;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(56,56,56);
+    color: white;
+}
