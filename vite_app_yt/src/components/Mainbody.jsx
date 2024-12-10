@@ -12,7 +12,9 @@ function Mainbody() {
                     <div className='search_bar'>
 
                         <input type='text' name='placeholder' placeholder='Search' className='search_tab'></input>
-                        <img src='https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/  search.png?raw=true' className='search_img' />
+                        <img src='https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/search.png?raw=true' className='search_img' /> 
+
+                        
 
                     </div>
 
@@ -34,7 +36,7 @@ function Mainbody() {
                <div className='header2'>
 
                 <button className='all'>All</button>
-                <button className='ck'>Cook Studios</button>
+                <button className='ck'>Coke Studios</button>
                 <button className='ux'>UX</button>
                 <button className='cs'>Case Study</button>
                 <button className='m'>Music</button>

@@ -31,68 +31,79 @@ function Sidebar() {
            </div>
            ))} */}
 
+
+
           <div className='home'>
             <img src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/home.png?raw=true" className="tabs" />
-            <span>Home</span>
+            <span style={{color: 'white'}}>Home</span>
           </div>
 
           <div className='home'>
             <img src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/explore.png?raw=true" className="tabs" />
-            <span>Explores</span>
+            <span style={{color: 'white'}}>Explores</span>
           </div>
 
           <div className='home'>
             <img src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/shorts.png?raw=true" className="tabs" />
-            <span>Shorts</span>
+            <span style={{color: 'white'}}>Shorts</span>
           </div>
 
           <div className='home'>
             <img src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/subscription.png?raw=true" className="tabs" />
-            <span>Subscription</span>
+            <span style={{color: 'white'}}>Subscription</span>
           </div>
         </div>
 
         <hr />
 
+
+
+
         <div className='sidebar_sec2'>
 
           <div className='home'>
             <img src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/library.png?raw=true" className="tabs" />
-            <span>Library</span>
+            <span style={{color: 'white'}}>Library</span>
           </div>
 
           <div className='home'>
             <img src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/history.png?raw=true" className="tabs" />
-            <span>History</span>
+            <span style={{color: 'white'}}>History</span>
           </div>
 
           <div className='home'>
             <img src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/your_video.png?raw=true" className="tabs" />
-            <span>Yours videos</span>
+            <span style={{color: 'white'}}>Yours videos</span>
           </div>
 
           <div className='home'>
             <img src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/watch_later.png?raw=true" className="tabs" />
-            <span>Wactch later</span>
+            <span style={{color: 'white'}}>Wactch later</span>
           </div>
 
           <div className='home'>
             <img src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/liked.png?raw=true" className="tabs" />
-            <span>Liked videos</span>
+            <span style={{color: 'white'}}>Liked videos</span>
           </div>
 
           <div className='home'>
             <img src="https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/down_arrow.png?raw=true" className="tabs" />
-            <span>Show more</span>
+            <span style={{color: 'white'}}>Show more</span>
           </div>
 
         </div>
         <hr/>
 
+
+
+
+
         <div className='sidebar_sec3'>
 
           <p className='SUB'>SUBSCRIPTION</p>
 
+
+      
           <div className='SUB1'>
             <img src='https://github.com/PatelNeelMahesh/frontend_tasks/blob/main/02.youtube-clone/assets/Ellipse%201.png?raw=true'/>
             <p className='SUB1_text'>Nardir On The Go</p>

@@ -1,0 +1,15 @@
+
+
+.main_div{
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(24,24,24);
+}
+
+.body{
+ 
+}
+.header{
+  background-color: rgb(24,24,24);
+}
+

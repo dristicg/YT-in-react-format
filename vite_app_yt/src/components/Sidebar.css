@@ -1,6 +1,6 @@
 .sidebar{
     background-color: rgb(33,33,33);
-    height: 100vh;
+    height: 120vh;
     width: 20vw;
     /* margin-top: -320px; */
   }
@@ -20,49 +20,50 @@
     margin-left: 15px;
     margin-top: 30px;
   }
+  .sidebar_sec1{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+  }
   
   .home{
-    margin-left: 30px;
+   
     margin-top: 10px; 
     height: 30px;
     width: 150px;
     /* background-color: green; */
   }
+
+  .sidebar_sec2{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+  }
+
   .tabs{
     margin-right: 5px;
     align-items: center;
     } 
   
-  /* .sidebar_item{
-    margin-left: 30px;
-    margin-top: 40px; 
-    height: 30px;
-    width: 150px;
-    background-color: green;
-    
-  }
-  
-  .sidebar_text{
-  margin-right: 5px;
-  } */
-  /* 
-  .sidebar_sec3{
-    /* position: absolute; */
-  /* } */ */
-  
+
   .SUB{
   margin: 10px;
   margin-left: 40px;
   /* position: relative; */
+  color: white;
   }
   
   .SUB1{
-  margin-top: 0px;
+  margin-top: 30px;
   margin-left: 30px; 
   margin-bottom: 10px;
   display: flex;
+
+  
+  
   }
   
   .SUB1_text{
     padding-left: 10px;
+    color: white;
   }

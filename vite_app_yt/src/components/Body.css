@@ -1,3 +1,82 @@
-.bul_buli{
+.feed{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2% 0 0 2%;
+    margin-left: 20vw;
+    margin-top: -760px;
+  
+}
+.title{
+width: 16vw;
+font-size: 0.9rem;
+font-weight: 500;
+margin-bottom: 3%;
+color: white;
+}
+
+.info{
+width:16vw;
+font-size: 0.75rem;
+color: white;
+}
+.vid{
+    margin-left: 2%;
+    margin-bottom: 8%;
 
 }
+.Channel{
+    height: 3vh;
+    display: flex;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.videos{
+margin-left: 20vw;
+position: relative;
+bottom: 600px;
+left: 50px;
+background-color: green;
+height: ;
+width: 250px;
+}
+
+
+.content{
+    background-color: yellow;
+    display: flex;
+    margin-right: 10px;
+}
+
+.content_img{
+    background-color: pink;
+}
+
+.content_text{
+    background-color: brown;
+    font-size: 15px;
+    margin-left: 10px;
+} */
